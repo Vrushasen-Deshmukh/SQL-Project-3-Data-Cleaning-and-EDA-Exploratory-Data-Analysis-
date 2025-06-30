@@ -1,6 +1,7 @@
 # SQL-Project-3-Data-Cleaning
 
-This project focuses on cleaning data using various SQL queries.
+# Overview
+In this project we will be cleaning data in SQL. This data gives a snapshot of workforce reductions in different industries, geographic locations, and funding stages, highlighting trends in corporate downsizing and economic impact across the tech and startup ecosystems.
 
 # Key Changes Made
 - Removing Duplicates
